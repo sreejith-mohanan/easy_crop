@@ -1,0 +1,7 @@
+name: label_img
+channels:
+    - conda-forge
+dependencies:
+    - python==3.5.2
+    - tk
+    - pillow
